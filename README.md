@@ -9,11 +9,11 @@ TextCNN解读
 
 > 论文中TextCNN结构如图所示：
 
-img1
+![image](https://github.com/ShaoQiBNU/TextCNN/blob/master/image/1.png)
 
 > 网络上更详细的图如下：
 
-img2
+![image](https://github.com/ShaoQiBNU/TextCNN/blob/master/image/2.png)
 
 > 网络结构详解如下：
 
