@@ -61,7 +61,7 @@ img2
 
 # 四. 代码
 
-> 官方在github上公开了一个使用实例，具体见：https://github.com/dennybritz/cnn-text-classification-tf.，具体解读见：https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html. 和 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/.
+> 官方在github上公开了一个使用实例，具体见：https://github.com/dennybritz/cnn-text-classification-tf. 解读见：https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html. 和 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/.
 
 
 
